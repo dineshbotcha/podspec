@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SKImageExtension_Tests' do
+  pod 'SKImageExtension', :path => '../'
+  
+  
+end
